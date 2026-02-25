@@ -1,2 +1,6 @@
-# amazon-sales-analytics
-Analyze how pricing, discounts, and customer reviews impact product ratings and customer engagement in order to optimize revenue and improve customer satisfaction.
+# samsung-sales-behavior-analysis
+Samsung wants to increase revenue, reduce returns, improve pricing strategy and optimize product offerings.
+
+Project Objective
+-----------------
+Analyze Samsung product sales data to uncover key drivers of revenue, customer purchasing behavior, discount effectiveness, and product performance. Provide actionable business recommendations. 
